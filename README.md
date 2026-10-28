@@ -7,7 +7,7 @@
 
 <br>
 
-### Engenheiro de Software Sênior · Java/Spring Boot · PHP/Laravel · Sistemas Distribuídos · IA Aplicada
+### Engenheiro de Software Especialista · Java/Spring Boot · PHP/Laravel · Sistemas Distribuídos · IA Aplicada
 
 *20 anos transformando problemas complexos em código limpo, testado e que dura.*
 
