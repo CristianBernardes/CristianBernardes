@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Engenheiro de software sênior desde 2006, com atuação em **Java (Spring Boot)**, **PHP (Laravel, Livewire)**, **Node.js/TypeScript (NestJS)**, **Python (FastAPI)**, **Go** e **Flutter**. Escolho a tecnologia certa para cada problema e aplico Clean Code, SOLID e Design Patterns no dia a dia.
+Engenheiro de software especialista desde 2006, com atuação em **Java (Spring Boot)**, **PHP (Laravel, Livewire)**, **Node.js/TypeScript (NestJS)**, **Python (FastAPI)**, **Go** e **Flutter**. Escolho a tecnologia certa para cada problema e aplico Clean Code, SOLID e Design Patterns no dia a dia.
 
 Uso IA generativa (LLMs, agentes, RAG e MCP) como ferramenta diária de engenharia e mantenho um laboratório local de IA para estudo e experimentação.
 
